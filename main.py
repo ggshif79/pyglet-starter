@@ -16,3 +16,4 @@ def on_draw():
     ball.draw()
 
 pyglet.app.run()
+
